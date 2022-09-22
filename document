@@ -1,0 +1,4 @@
+In this Project i use Django and Django rest Api and selenium
+you can see scraping part in airtelplan.py file in this file i use selenium amd mysql to store data 
+
+
